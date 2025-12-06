@@ -1,3 +1,4 @@
+<img src=”https://raw.githubusercontent.com/ChrisAppexe/ChrisPad/refs/heads/main/PCBIMAGE.jpg" alt=”my banner”>
 Inspiration:
 	I wanted to create a personal micropad to assist me with everyday tasks(Copy,paste,etc...) but also look cool enough(having a small knob etc)
 Challenges:
@@ -18,4 +19,5 @@ Others:
 
 ChrisPad Base.step
 ChrisPad Top.step
+
 ChrisPadVolumeknob.stl
