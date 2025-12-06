@@ -21,4 +21,5 @@ ChrisPad Base.step
 ChrisPad Top.step
 
 ChrisPadVolumeknob.stl
-
+![banner](https://raw.githubusercontent.com/ChrisAppexe/ChrisPad/refs/heads/main/Case.jpg)
+![banner](https://raw.githubusercontent.com/ChrisAppexe/ChrisPad/refs/heads/main/SCEMATIC.jpg)
