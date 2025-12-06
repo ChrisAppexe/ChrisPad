@@ -17,9 +17,12 @@ BOM:
 
 Others:
 
-ChrisPad Base.step
-ChrisPad Top.step
-
+ChrisPad Base.step 
+ChrisPad Top.step 
 ChrisPadVolumeknob.stl
+
+
 ![banner](https://raw.githubusercontent.com/ChrisAppexe/ChrisPad/refs/heads/main/Case.jpg)
 ![banner](https://raw.githubusercontent.com/ChrisAppexe/ChrisPad/refs/heads/main/SCEMATIC.jpg)
+![banner](https://raw.githubusercontent.com/ChrisAppexe/ChrisPad/refs/heads/main/Case%20with%20pcb%20fitting.jpg)
+
